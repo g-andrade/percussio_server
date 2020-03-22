@@ -1,21 +1,3 @@
-# Percussio
+Let one or more instances of an [Android app](https://github.com/g-andrade/percussio_app) connect to us and tell the devices on which they're running when to vibrate, based on a very limited form of sheet music.
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `percussio` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:percussio, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/percussio](https://hexdocs.pm/percussio).
-
+[Video of first prototype](https://youtu.be/_06-M8fH0n4).
